@@ -9,3 +9,5 @@ This Repository has the following content:
 2) Taylor_sum.py which has two functions:
     a) Taylor_terms computes a given term in the Taylor series expansion of the polynomial P(x) at x+delta_x.
     b) Taylor_sum computes the value of Taylor polynomial at a given x and delta_x.
+    
+3) examples.py is a sample script containing various usage of the above functions.
